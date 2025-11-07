@@ -2,7 +2,6 @@ package com.tarea;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.*;
-import java.util.P
 
 /**
  * Clase que representa a un paciente en el sistema de urgencias
